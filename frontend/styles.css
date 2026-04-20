@@ -48,7 +48,8 @@ input {
 
 #output {
   flex: 1;                 /* takes all available space */
-  overflow-y: auto;        /* scrollable */
+  overflow-y: auto; /* scrollable */
   padding: 20px;
+  color: black !important;
   background: #f5f5f5;
 }
